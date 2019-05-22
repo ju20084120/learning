@@ -1,4 +1,6 @@
-# learning
+# creating an automation framework
+
+## setting up the ecosystem
 
 1. install homebrew:
 ```
