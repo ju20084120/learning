@@ -10,3 +10,9 @@
 ```
 brew cask install java
 ```
+
+3. install maven:
+
+```
+brew install mvn
+```
